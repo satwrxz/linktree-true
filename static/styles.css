@@ -29,7 +29,7 @@ h2 {
   text-align: center;
   font-family: michroma, sans-serif;
   line-height: 0.001;
-  font-size: 10px;
+  font-size: 25px;
 }
 
 h3 {
@@ -37,7 +37,7 @@ h3 {
 
   font-family: michroma, sans-serif;
   line-height: 0.5;
-  font-size: 5px;
+  font-size: 20px;
   line-height: 1.5;
 }
 
@@ -46,7 +46,7 @@ p {
   text-align: center;
   font-family: michroma, sans-serif;
   line-height: 1.5;
-  font-size: 5px;
+  font-size: 15px;
 }
 .sla {
   width: 10%;
